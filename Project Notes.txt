@@ -1,5 +1,15 @@
 ----- Project information and notes -----
 
-Purpose: To create a portfolio project for the codecademy-CS101 module, I need to create a basic terminal program. 
+Overview: To create a portfolio project for the codecademy-CS101 module, I need to create a basic terminal program. 
+    I will make a version of the game Battleship that can be played in the command line using Python 3. 
 
-Goal: Make a version of the game Battleship
+Scope and constraints (basic):
+-this will be a single player game that takes the input (cell the hit) from the player and return if there is a hit or miss on the opponent ships
+-fixed player and opponent board configuration
+-opponent attacks are randomized
+
+Potential additional scope goals:
+-generate opponent's board
+-allow user to create their own board
+-add intelligence to opponent attacks
+
