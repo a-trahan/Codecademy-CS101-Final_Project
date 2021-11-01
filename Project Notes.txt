@@ -1,0 +1,5 @@
+----- Project information and notes -----
+
+Purpose: To create a portfolio project for the codecademy-CS101 module, I need to create a basic terminal program. 
+
+Goal: Make a version of the game Battleship
